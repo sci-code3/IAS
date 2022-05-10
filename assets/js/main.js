@@ -179,15 +179,15 @@
 	// Change Source og Background Image of Slides
 	if (mobileScreen.matches) {
 		firstSlide.style.backgroundImage =
-			'url("assets/img/hero-carousel/mobiledisplay.png")';
+			'url("assets/img/hero-carousel/mobiledisplay-1.png")';
 		secondSlide.style.backgroundImage =
-			'url("assets/img/hero-carousel/mobiledisplay.jpg")';
+			'url("assets/img/hero-carousel/mobiledisplay-2.jpg")';
 		thirdSlide.style.backgroundImage =
-			'url("assets/img/hero-carousel/mobiledisplay.jpg")';
+			'url("assets/img/hero-carousel/mobiledisplay-3.jpg")';
 		fourthSlide.style.backgroundImage =
-			'url("assets/img/hero-carousel/mobiledisplay.jpg")';
-		fifthSlide.style.backgroundImage =
-			'url("assets/img/hero-carousel/mobiledisplay.jpg")';
+			'url("assets/img/hero-carousel/mobiledisplay-4.jpg")';
+		// fifthSlide.style.backgroundImage =
+		// 	'url("assets/img/hero-carousel/mobiledisplay-5.jpg")';
 	}
 
 	/**
