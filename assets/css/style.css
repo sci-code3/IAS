@@ -597,13 +597,15 @@ section {
 #services .box h4 a {
   color: #444;
 }
+#services .box p a {
+  color: #444;
+}
 #services .box p {
   font-size: 14px;
   margin-left: 100px;
   margin-bottom: 0;
   line-height: 24px;
 }
-
 
 @media (max-width: 767px) {
   #services .box .box {
@@ -619,7 +621,6 @@ section {
     text-align: center;
   }
 }
-
 /* Clients Section
 --------------------------------*/
 #clients {
@@ -786,6 +787,7 @@ section {
 }
 .portfolio-details .portfolio-description p {
   padding: 0;
+  text-align: justify;
 }
 
 /* Testimonials Section
