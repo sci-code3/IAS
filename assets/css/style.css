@@ -347,13 +347,13 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 #hero .hero-content h2 {
-  color: #0c6d73;
+  color: #f1f1f1;
   margin-bottom: 30px;
   font-size: 64px;
   font-weight: 700;
 }
 #hero .hero-content h2 span {
-  color: #02caef;
+  color: #18ecf0;
 }
 @media (max-width: 767px) {
   #hero .hero-content h2 {
@@ -394,7 +394,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero .hero-slider::before {
   content: "";
-  background-color: rgba(255, 255, 255, 0.404);
+  background-color: rgba(255, 255, 255, 0.185);
   position: absolute;
   height: 100%;
   width: 100%;
